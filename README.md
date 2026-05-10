@@ -15,6 +15,7 @@ pytest
 ## Review Links
 - Start here: `docs/START_HERE.md`
 - Grant evidence: `docs/GRANT_EVIDENCE.md`
+- Benchmark evidence: `docs/evidence/BENCHMARK_EVIDENCE_SNAPSHOT.md`
 - Architecture: `docs/`
 - Validation: `pytest`
 - Security: `SECURITY.md`
@@ -184,6 +185,7 @@ Inspect example logs through the current Python tooling and examples in:
 - Covered failure classes: valid chain, missing parent, unmarked gap, ambiguous root, secret-to-network without valid lineage, custom policy violation
 - Reproducible benchmark run command: `python scripts/run_safety_eval.py`
 - Tracked benchmark report: `benchmarks/RESULTS.md`
+- Reviewer-friendly benchmark interpretation: `docs/evidence/BENCHMARK_EVIDENCE_SNAPSHOT.md`
 
 ## Repository Map
 
