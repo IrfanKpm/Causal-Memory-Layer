@@ -17,6 +17,7 @@ pytest
 
 ## Review Links
 - Start here: `docs/START_HERE.md`
+- Grant reviewer checklist: [`docs/GRANT_REVIEWER_CHECKLIST.md`](docs/GRANT_REVIEWER_CHECKLIST.md)
 - Grant evidence: `docs/GRANT_EVIDENCE.md`
 - Docker causal memory walkthrough: [`docs/demo/DOCKER_CAUSAL_MEMORY_WALKTHROUGH.md`](docs/demo/DOCKER_CAUSAL_MEMORY_WALKTHROUGH.md)
 - CML adoption equilibrium framing: [`docs/CML_AI_ADOPTION_EQUILIBRIUM_LAYER.md`](docs/CML_AI_ADOPTION_EQUILIBRIUM_LAYER.md)
